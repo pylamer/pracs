@@ -1,3 +1,3 @@
 common_line
-conflict_line_again
+conflict_line_again_and_again
 conflict_line_change
